@@ -1,0 +1,57 @@
+id_empresa,nombre_empresa,pais,ciudad,latitud,longitud,capacidad_instalada_mw,tipo_energia
+GEN001,Energía Bogotá Power,Colombia,Bogotá,4.9526,-74.3272,59.1,solar
+GEN002,Renovables Bogotá Power,Colombia,Bogotá,4.8015,-74.5403,64.1,geotérmica
+GEN003,EcoGen Bogotá SL,Colombia,Bogotá,4.7722,-73.8561,590.9,hidroeléctrica
+GEN004,Renovables Barranquilla Energy,Colombia,Barranquilla,11.0532,-74.487,104.5,hidroeléctrica
+GEN005,Energía Cali SA,Colombia,Cali,3.2295,-76.8167,393.6,eólica
+GEN006,Energía Barranquilla Energy,Colombia,Barranquilla,10.5606,-74.4489,321.7,eólica
+GEN007,CleanTech Bogotá Corp,Colombia,Bogotá,5.1841,-74.1936,298.4,eólica
+GEN008,Green Power Medellín SA,Colombia,Medellín,6.4488,-76.0354,259.5,hidroeléctrica
+GEN009,Green Power Medellín SL,Colombia,Medellín,6.6107,-75.7011,417.4,hidroeléctrica
+GEN010,Energía Monterrey Power,México,Monterrey,25.3961,-100.5491,755.7,hidroeléctrica
+GEN011,Green Power Guadalajara Power,México,Guadalajara,20.6938,-103.6048,258.0,eólica
+GEN012,Renovables Guadalajara SA,México,Guadalajara,20.8443,-103.0067,166.4,geotérmica
+GEN013,CleanTech Monterrey Corp,México,Monterrey,25.5878,-100.7499,739.2,hidroeléctrica
+GEN014,EcoGen Guadalajara SL,México,Guadalajara,20.8151,-103.454,461.5,eólica
+GEN015,CleanTech Monterrey Energy,México,Monterrey,25.3262,-100.0711,292.5,eólica
+GEN016,EcoGen Tijuana SA,México,Tijuana,32.3769,-116.5409,112.2,eólica
+GEN017,EcoGen Ciudad de México Power,México,Ciudad de México,19.7937,-99.4804,64.8,solar
+GEN018,Green Power Ciudad de México Power,México,Ciudad de México,19.3174,-99.0373,151.1,solar
+GEN019,Green Power Ciudad de México Corp,México,Ciudad de México,19.6129,-99.5186,267.7,solar
+GEN020,Green Power Ciudad de México Power,México,Ciudad de México,19.2261,-99.475,51.5,eólica
+GEN021,CleanTech Guadalajara Power,México,Guadalajara,20.6674,-103.7432,195.1,solar
+GEN022,CleanTech Guadalajara SA,México,Guadalajara,20.3125,-103.0871,292.7,eólica
+GEN023,Green Power Temuco SL,Chile,Temuco,-39.2164,-72.1613,445.4,eólica
+GEN024,EcoGen Santiago SA,Chile,Santiago,-33.708,-70.6019,42.1,solar
+GEN025,Green Power Valparaíso Power,Chile,Valparaíso,-33.4188,-71.6374,173.9,solar
+GEN026,Renovables Temuco Corp,Chile,Temuco,-38.2715,-72.1615,628.7,hidroeléctrica
+GEN027,CleanTech Temuco Energy,Chile,Temuco,-38.2408,-72.4405,247.1,eólica
+GEN028,CleanTech Santiago SL,Chile,Santiago,-33.701,-71.1053,25.9,solar
+GEN029,Energía Valparaíso SA,Chile,Valparaíso,-33.54,-71.4049,36.5,solar
+GEN030,Renovables Antofagasta Power,Chile,Antofagasta,-24.08,-70.6595,351.0,eólica
+GEN031,Renovables Valparaíso Energy,Chile,Valparaíso,-32.8238,-71.2303,181.3,solar
+GEN032,EcoGen Temuco Energy,Chile,Temuco,-39.0455,-72.9935,244.0,eólica
+GEN033,Energía Temuco SA,Chile,Temuco,-38.3721,-73.0362,344.1,eólica
+GEN034,Renovables Temuco SL,Chile,Temuco,-38.5077,-72.2898,19.8,biomasa
+GEN035,Energía Temuco Energy,Chile,Temuco,-39.0957,-72.9069,119.4,geotérmica
+GEN036,Energía Madrid SL,España,Madrid,40.5689,-3.6632,110.3,hidroeléctrica
+GEN037,Energía Barcelona SL,España,Barcelona,41.2915,2.1548,439.1,eólica
+GEN038,EcoGen Sevilla Corp,España,Sevilla,36.8913,-6.0941,466.9,eólica
+GEN039,EcoGen Sevilla SL,España,Sevilla,37.5857,-5.754,239.3,solar
+GEN040,CleanTech Barcelona SA,España,Barcelona,41.1818,2.6421,182.2,solar
+GEN041,CleanTech Valencia SL,España,Valencia,39.0271,-0.2921,276.3,eólica
+GEN042,CleanTech Madrid SA,España,Madrid,40.8776,-4.1237,72.0,solar
+GEN043,CleanTech Barcelona Power,España,Barcelona,41.2889,2.615,306.4,eólica
+GEN044,CleanTech Madrid Corp,España,Madrid,40.5362,-3.7846,62.5,biomasa
+GEN045,Renovables Múnich Corp,Alemania,Múnich,48.3048,11.3962,169.5,eólica
+GEN046,EcoGen Frankfurt Power,Alemania,Frankfurt,49.9271,8.934,40.3,solar
+GEN047,Green Power Berlín SA,Alemania,Berlín,52.0933,13.1182,169.3,eólica
+GEN048,Green Power Múnich Power,Alemania,Múnich,48.0046,11.2397,253.4,solar
+GEN049,Energía Berlín SL,Alemania,Berlín,52.6879,13.4596,280.9,solar
+GEN050,Green Power Hamburgo Corp,Alemania,Hamburgo,53.1665,9.6007,299.0,eólica
+GEN051,Green Power Múnich Power,Alemania,Múnich,48.3527,11.2856,145.1,geotérmica
+GEN052,EcoGen Frankfurt Corp,Alemania,Frankfurt,49.862,9.0903,34.2,solar
+GEN053,Green Power Berlín SL,Alemania,Berlín,52.0235,13.6761,67.3,biomasa
+GEN054,Energía Frankfurt SL,Alemania,Frankfurt,50.1626,8.6098,106.8,hidroeléctrica
+GEN055,Renovables Berlín SA,Alemania,Berlín,52.8546,13.4875,61.5,solar
+GEN056,Energía Hamburgo Corp,Alemania,Hamburgo,53.4158,10.4268,97.5,biomasa

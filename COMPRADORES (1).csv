@@ -1,0 +1,94 @@
+id_comprador,nombre_comprador,sector,pais,ciudad
+COM001,Urbanización Medellín 23,residencial,Colombia,Medellín
+COM002,Conjunto Barranquilla 16,residencial,Colombia,Barranquilla
+COM003,Conjunto Medellín 27,residencial,Colombia,Medellín
+COM004,Conjunto Bogotá 48,residencial,Colombia,Bogotá
+COM005,Residencial Cali 43,residencial,Colombia,Cali
+COM006,Barrio Medellín 11,residencial,Colombia,Medellín
+COM007,Complejo Bogotá,comercial,Colombia,Bogotá
+COM008,Residencial Bogotá 15,residencial,Colombia,Bogotá
+COM009,Residencial Medellín 23,residencial,Colombia,Medellín
+COM010,Manufactura Cali SA,industrial,Colombia,Cali
+COM011,Urbanización Medellín 43,residencial,Colombia,Medellín
+COM012,Complejo Medellín,comercial,Colombia,Medellín
+COM013,Barrio Cali 5,residencial,Colombia,Cali
+COM014,Mall Cali,comercial,Colombia,Cali
+COM015,Mall Barranquilla,comercial,Colombia,Barranquilla
+COM016,Urbanización Bogotá 17,residencial,Colombia,Bogotá
+COM017,Barrio Medellín 3,residencial,Colombia,Medellín
+COM018,Complejo Bogotá,comercial,Colombia,Bogotá
+COM019,Planta Monterrey SA,industrial,México,Monterrey
+COM020,Planta Ciudad de México SA,industrial,México,Ciudad de México
+COM021,Mall Guadalajara,comercial,México,Guadalajara
+COM022,Residencial Ciudad de México 1,residencial,México,Ciudad de México
+COM023,Barrio Guadalajara 28,residencial,México,Guadalajara
+COM024,Barrio Ciudad de México 40,residencial,México,Ciudad de México
+COM025,Centro Comercial Monterrey,comercial,México,Monterrey
+COM026,Fábrica Monterrey SA,industrial,México,Monterrey
+COM027,Barrio Tijuana 26,residencial,México,Tijuana
+COM028,Conjunto Monterrey 13,residencial,México,Monterrey
+COM029,Residencial Tijuana 44,residencial,México,Tijuana
+COM030,Barrio Guadalajara 26,residencial,México,Guadalajara
+COM031,Fábrica Ciudad de México SA,industrial,México,Ciudad de México
+COM032,Manufactura Monterrey SA,industrial,México,Monterrey
+COM033,Mall Tijuana,comercial,México,Tijuana
+COM034,Planta Tijuana SA,industrial,México,Tijuana
+COM035,Conjunto Tijuana 33,residencial,México,Tijuana
+COM036,Manufactura Tijuana SA,industrial,México,Tijuana
+COM037,Mall Ciudad de México,comercial,México,Ciudad de México
+COM038,Industrias Monterrey SA,industrial,México,Monterrey
+COM039,Plaza Antofagasta,comercial,Chile,Antofagasta
+COM040,Manufactura Valparaíso SA,industrial,Chile,Valparaíso
+COM041,Industrias Santiago SA,industrial,Chile,Santiago
+COM042,Planta Valparaíso SA,industrial,Chile,Valparaíso
+COM043,Residencial Santiago 27,residencial,Chile,Santiago
+COM044,Residencial Valparaíso 32,residencial,Chile,Valparaíso
+COM045,Conjunto Temuco 10,residencial,Chile,Temuco
+COM046,Industrias Santiago SA,industrial,Chile,Santiago
+COM047,Conjunto Temuco 12,residencial,Chile,Temuco
+COM048,Industrias Temuco SA,industrial,Chile,Temuco
+COM049,Centro Comercial Valparaíso,comercial,Chile,Valparaíso
+COM050,Conjunto Temuco 30,residencial,Chile,Temuco
+COM051,Planta Antofagasta SA,industrial,Chile,Antofagasta
+COM052,Complejo Temuco,comercial,Chile,Temuco
+COM053,Residencial Valparaíso 29,residencial,Chile,Valparaíso
+COM054,Conjunto Antofagasta 41,residencial,Chile,Antofagasta
+COM055,Residencial Antofagasta 41,residencial,Chile,Antofagasta
+COM056,Barrio Valparaíso 29,residencial,Chile,Valparaíso
+COM057,Plaza Valencia,comercial,España,Valencia
+COM058,Mall Valencia,comercial,España,Valencia
+COM059,Industrias Valencia SA,industrial,España,Valencia
+COM060,Plaza Barcelona,comercial,España,Barcelona
+COM061,Complejo Barcelona,comercial,España,Barcelona
+COM062,Conjunto Barcelona 5,residencial,España,Barcelona
+COM063,Complejo Sevilla,comercial,España,Sevilla
+COM064,Planta Valencia SA,industrial,España,Valencia
+COM065,Centro Comercial Sevilla,comercial,España,Sevilla
+COM066,Complejo Barcelona,comercial,España,Barcelona
+COM067,Urbanización Sevilla 49,residencial,España,Sevilla
+COM068,Residencial Sevilla 1,residencial,España,Sevilla
+COM069,Barrio Valencia 49,residencial,España,Valencia
+COM070,Planta Sevilla SA,industrial,España,Sevilla
+COM071,Complejo Barcelona,comercial,España,Barcelona
+COM072,Mall Barcelona,comercial,España,Barcelona
+COM073,Urbanización Frankfurt 25,residencial,Alemania,Frankfurt
+COM074,Planta Hamburgo SA,industrial,Alemania,Hamburgo
+COM075,Planta Múnich SA,industrial,Alemania,Múnich
+COM076,Urbanización Múnich 26,residencial,Alemania,Múnich
+COM077,Urbanización Berlín 42,residencial,Alemania,Berlín
+COM078,Conjunto Frankfurt 30,residencial,Alemania,Frankfurt
+COM079,Centro Comercial Múnich,comercial,Alemania,Múnich
+COM080,Residencial Hamburgo 21,residencial,Alemania,Hamburgo
+COM081,Planta Múnich SA,industrial,Alemania,Múnich
+COM082,Fábrica Hamburgo SA,industrial,Alemania,Hamburgo
+COM083,Barrio Frankfurt 49,residencial,Alemania,Frankfurt
+COM084,Mall Frankfurt,comercial,Alemania,Frankfurt
+COM085,Complejo Berlín,comercial,Alemania,Berlín
+COM086,Urbanización Berlín 23,residencial,Alemania,Berlín
+COM087,Industrias Múnich SA,industrial,Alemania,Múnich
+COM088,Urbanización Berlín 16,residencial,Alemania,Berlín
+COM089,Urbanización Múnich 40,residencial,Alemania,Múnich
+COM090,Conjunto Múnich 9,residencial,Alemania,Múnich
+COM091,Industrias Frankfurt SA,industrial,Alemania,Frankfurt
+COM092,Planta Múnich SA,industrial,Alemania,Múnich
+COM093,Barrio Hamburgo 11,residencial,Alemania,Hamburgo
